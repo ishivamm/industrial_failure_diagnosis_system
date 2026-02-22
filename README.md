@@ -33,6 +33,13 @@ To improve diagnostic accuracy, the following mechanical indicators were enginee
 * **Condition Monitoring Trends:** Simulated time-series graphs showing realistic fluctuations in sensor data over time.
 * **Safe Range Reference:** Built-in documentation for standard operating parameters to assist non-expert users.
 
+## 🖥️ Application Preview
+
+Below are screenshots showcasing different sections of the application:
+![web-screenshot-22-02-2026 (3)](https://github.com/user-attachments/assets/65da309b-76ab-4620-bccf-2dba60e76c3e)![web-screenshot-22-02-2026 (4)](https://github.com/user-attachments/assets/6598f306-9842-411e-8671-5168eb1ae71b)
+
+![web-screenshot-22-02-2026 (4)](https://github.com/user-attachments/assets/a95e7353-bd4b-49b3-b6da-29847156814e)
+
 
 
 ---
