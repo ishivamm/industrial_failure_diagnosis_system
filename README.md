@@ -5,7 +5,7 @@
 
 This project provides an end-to-end AI solution for predicting machinery failures and diagnosing their specific mechanical causes. By utilizing the **AI4I 2020 Predictive Maintenance Dataset**, the system translates complex sensor telemetry into actionable maintenance decisions.
 
-🌐 Live App:https://industrialfailurediagnosissystem-gjwz9qgrtdybke4oejrwpc.streamlit.app/
+🌐 **Live App:** (https://industrialfailurediagnosissystem-gjwz9qgrtdybke4oejrwpc.streamlit.app/)]
 ---
 
 ## 🛡️ Project Overview & Methodology
