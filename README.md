@@ -44,7 +44,7 @@ To improve diagnostic accuracy, the following mechanical indicators were enginee
 ### Local Setup
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/your-username/predictive-maintenance-ai.git](https://github.com/your-username/predictive-maintenance-ai.git)
-   cd predictive-maintenance-ai
+   git clone [https://github.com/ishivamm/industrial_failure_diagnosis_system.git]
+   cd industrial_failure_diagnosis_system
    pip install -r requirements.txt
    streamlit run app.py
