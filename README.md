@@ -36,7 +36,7 @@ To improve diagnostic accuracy, the following mechanical indicators were enginee
 ## 🖥️ Application Preview
 
 Below are screenshots showcasing different sections of the application:
-![web-screenshot-22-02-2026 (3)](https://github.com/user-attachments/assets/65da309b-76ab-4620-bccf-2dba60e76c3e
+![web-screenshot-22-02-2026 (3)](https://github.com/user-attachments/assets/65da309b-76ab-4620-bccf-2dba60e76c3e)
 ![web-screenshot-22-02-2026 (4)](https://github.com/user-attachments/assets/a95e7353-bd4b-49b3-b6da-29847156814e)
 ![web-screenshot-22-02-2026 (5)](https://github.com/user-attachments/assets/f726bcd4-1058-4c5e-ad60-801bf80c3f79)
 ![web-screenshot-22-02-2026 (6)](https://github.com/user-attachments/assets/cf89a689-7d6a-417b-982a-f9a2369707a7)
