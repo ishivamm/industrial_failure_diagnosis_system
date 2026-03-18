@@ -56,7 +56,7 @@ More sceernshots are in screenshot_app folder
 ### Local Setup
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/ishivamm/industrial_failure_diagnosis_system.git]
+   git clone https://github.com/ishivamm/industrial_failure_diagnosis_system.git
    cd industrial_failure_diagnosis_system
    pip install -r requirements.txt
    streamlit run app.py
